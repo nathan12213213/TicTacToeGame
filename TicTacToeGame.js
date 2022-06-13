@@ -9,7 +9,6 @@ public class TicTacToe {
 						  {' ', '|', ' ', '|', ' '}};
 
 		printGameBoard(gameBoard);
-    
 	}
 	
    public static void printGameBoard(char[][] gameBoard){
